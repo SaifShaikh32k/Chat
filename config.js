@@ -7,7 +7,7 @@
 const CONFIG = {
 
   // ── Step 2: Paste your Google Apps Script Web App URL here ──
-  APPS_SCRIPT_URL: "YOUR_APPS_SCRIPT_WEB_APP_URL_HERE",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyAqQYnuCgeI3jZknFeQVclWi04EX0E-ZAMdWsMu10BYoD-9VU2fcXkZ7oWicBpcMFWDA/exec",
 
   // ── Step 3: Paste your Firebase project config here ──
   FIREBASE: {
